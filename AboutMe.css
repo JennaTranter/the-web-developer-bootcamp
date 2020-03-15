@@ -1,0 +1,15 @@
+h1 {
+	color: #FF0000;
+	/*border-color: purple;
+	border-width: 5px;
+	border-style: solid; */
+	border: purple 8px solid;
+}
+
+li {
+	color: #00FF00;
+}
+
+h4 {
+	color: rgb(11,99,150);
+}
